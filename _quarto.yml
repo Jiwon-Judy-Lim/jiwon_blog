@@ -7,7 +7,7 @@ website:
   navbar: 
     right:
       - about.qmd
-      - icon : github
+      - icon: github
         href: https://github.com/Jiwon-Judy-Lim
 
 
