@@ -1,0 +1,8 @@
+---
+title: "Intro"
+author: "Jiwon Lim"
+date: "2025-07-22"
+categories: [news]
+---
+
+나의 첫 블로그 률류~~!

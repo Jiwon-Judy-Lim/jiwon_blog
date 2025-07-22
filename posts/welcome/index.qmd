@@ -1,0 +1,9 @@
+---
+title: "Welcome To My Blog_2"
+author: "Jiwon Lim"
+date: "2025-07-22"
+categories: [news]
+image: thumbnail.jpg
+---
+
+안녕하세요! Gutan Tag!

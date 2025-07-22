@@ -1,0 +1,16 @@
+---
+title: "JIWON LIM"
+image: https://cdn.imweb.me/thumbnail/20221203/fba3a2f258bdc.png
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/Jiwon-Judy-Lim
+
+---
+
+Jiwon Judy의 블로그:)
