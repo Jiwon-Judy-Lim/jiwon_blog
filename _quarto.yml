@@ -4,11 +4,8 @@ project:
 
 website:
   title: "jiwon blog"
-  navbar:
-    right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/Jiwon-Judy-Lim
+  format: html
+  execute: true
 
 format:
   html:
