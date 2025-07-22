@@ -13,5 +13,8 @@
   },
   "posts/intro/index.qmd": {
     "index.html": "a8ca366b"
+  },
+  "posts/Qmd기본/assignment.qmd": {
+    "assignment.html": "958cd255"
   }
 }
